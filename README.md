@@ -1,10 +1,8 @@
 <p align="center">
-<img src="/mnt/data/e38e1838-6c31-4826-be64-39594fd3f089.png" width="100%" />
+
 </p>
 
-<p align="center">
-<img src="https://couponhost.shop/wp-content/uploads/2026/04/Untitled.png" />
-</p>
+
 
 <p align="center">
 <b>🔥 Instant savings 91% — just hit 'Apply Coupon'! Works for Web, VPS, Cloud & Agency Hosting 🔥</b>
@@ -15,7 +13,9 @@
 ---
 
 # 🚀 Hostinger Coupon Code 2026 – Get 91% OFF Hosting (Verified Deal)
-
+<p align="center">
+<img src="https://couponhost.shop/wp-content/uploads/2026/04/Untitled.png" />
+</p>
 ---
 
 ## 🏆 Best Hostinger Coupon Code 2026 (Updated Today)
